@@ -7,8 +7,9 @@
 
 # Interests
 
-## Enterprise-Application & Industrial Internet in Cloud
-
-## AI 
+* Enterprise-Application & Industrial Internet in Cloud
+  * Cloud ERP solution for mid-size enterprise
+* AI 
+  * how to work with Python and Tensor flow in Mac
   
 
